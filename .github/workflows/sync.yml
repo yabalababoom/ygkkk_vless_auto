@@ -29,6 +29,7 @@ jobs:
           echo "TARGET_FILE=_worker.js" >> $GITHUB_ENV
 
       - name: Check and update Worker
+        id: update_worker
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -64,9 +65,12 @@ jobs:
           echo "$NEW_HASH" > version.txt
           log "更新完成，新版本哈希: $NEW_HASH"
 
+          # 将 NEW_HASH 输出为步骤输出
+          echo "new_hash=$NEW_HASH" >> $GITHUB_OUTPUT
+
       - name: Commit changes
         if: success() # 仅在更新成功时提交
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔄 自动同步 _worker.js: $NEW_HASH"
+          commit_message: "🔄 自动同步 _worker.js: ${{ steps.update_worker.outputs.new_hash }}"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
