@@ -3,7 +3,7 @@ name: Sync File
 on:
   schedule:
     - cron: '0 1 * * *'  # 每天 UTC 时间 1:00 运行
-  workflow_dispatch:  # 添加手动触发支持
+  workflow_dispatch:  # 支持手动触发
 
 jobs:
   sync:
@@ -11,17 +11,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
       - name: Download file
         run: |
-          curl -o vless.js https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/_worker.js
-      - name: Check for changes
-        run: |
-          git diff --quiet vless.js || echo "File changed" > /tmp/changed
-      - name: Commit and push if changed
-        if: hashFiles('/tmp/changed') != ''
+          curl -o vless.js "https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/_worker.js"
+
+      - name: Stage and commit file
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add vless.js
-          git commit -m "Sync vless.js from source repository"
+          git diff --quiet vless.js || git commit -m "Sync vless.js from source repository"
           git push
