@@ -3,6 +3,7 @@ name: Sync File
 on:
   schedule:
     - cron: '0 1 * * *'  # 每天 UTC 时间 1:00 运行
+  workflow_dispatch:  # 添加手动触发支持
 
 jobs:
   sync:
@@ -10,15 +11,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Download file
         run: |
           curl -o vless.js https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/vless%E4%BB%85nat64%E5%A5%97%E5%A3%B3%E7%89%88%20(%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8).js
-
       - name: Check for changes
         run: |
           git diff --quiet vless.js || echo "File changed" > /tmp/changed
-
       - name: Commit and push if changed
         if: hashFiles('/tmp/changed') != ''
         run: |
