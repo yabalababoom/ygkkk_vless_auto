@@ -1,25 +1,72 @@
-name: Sync File
+name: Sync Worker File
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 1 * * *'  # 每天 UTC 时间 1:00 运行
-  workflow_dispatch:  # 支持手动触发
+    - cron: '0 1 * * *' # 每天 UTC 时间 1:00 运行
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: '是否强制更新（忽略版本检查）'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Download file
+      - name: Set environment
         run: |
-          curl -o vless.js "https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/_worker.js"
+          echo "SOURCE_URL=https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/_worker.js" >> $GITHUB_ENV
+          echo "TARGET_FILE=_worker.js" >> $GITHUB_ENV
 
-      - name: Stage and commit file
+      - name: Check and update Worker
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add vless.js
-          git commit -m "Sync vless.js from source repository"
-          git push
+          # 日志函数
+          log() { echo "[$(date +'%Y-%m-%d %H:%M:%S')] $1"; }
+
+          log "开始检查更新..."
+
+          # 获取本地版本（基于文件哈希）
+          LOCAL_HASH=$(sha256sum _worker.js 2>/dev/null | awk '{print $1}' || echo "")
+          log "本地版本哈希: ${LOCAL_HASH:-无}"
+
+          # 下载最新文件
+          log "下载 $_worker.js..."
+          curl -s -o "$TARGET_FILE" "$SOURCE_URL"
+          if [ $? -ne 0 ]; then
+            log "ERROR: 下载失败"
+            exit 1
+          fi
+
+          # 计算新文件哈希
+          NEW_HASH=$(sha256sum "$TARGET_FILE" | awk '{print $1}')
+          log "新版本哈希: $NEW_HASH"
+
+          # 判断是否需要更新
+          FORCE_UPDATE=${{ github.event.inputs.force_update || 'false' }}
+          if [ "$LOCAL_HASH" = "$NEW_HASH" ] && [ "$FORCE_UPDATE" != "true" ]; then
+            log "文件未变化，无需更新"
+            exit 0
+          fi
+
+          # 更新版本记录
+          echo "$NEW_HASH" > version.txt
+          log "更新完成，新版本哈希: $NEW_HASH"
+
+      - name: Commit changes
+        if: success() # 仅在更新成功时提交
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 自动同步 _worker.js: $NEW_HASH"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
