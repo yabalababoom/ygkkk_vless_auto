@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Download file
         run: |
-          curl -o vless.js https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/vless%E4%BB%85nat64%E5%A5%97%E5%A3%B3%E7%89%88%20(%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8).js
+          curl -o vless.js https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/_worker.js
       - name: Check for changes
         run: |
           git diff --quiet vless.js || echo "File changed" > /tmp/changed
