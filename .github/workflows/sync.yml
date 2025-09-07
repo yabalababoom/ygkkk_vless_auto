@@ -25,7 +25,7 @@ jobs:
 
       - name: Set environment
         run: |
-          echo "SOURCE_URL=https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/Vless_workers_pages/_worker.js" >> $GITHUB_ENV
+          echo "SOURCE_URL=https://github.com/yonggekkk/Cloudflare-vless-trojan/blob/main/Vless_workers_pages/nat64%E5%A5%97%E5%A3%B3%E7%89%88%E6%B7%B7%E6%B7%86.js" >> $GITHUB_ENV
           echo "TARGET_FILE=_worker.js" >> $GITHUB_ENV
 
       - name: Check and update Worker
