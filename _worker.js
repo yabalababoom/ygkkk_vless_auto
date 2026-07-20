@@ -150,13 +150,13 @@
   <meta name="route-pattern" content="/:user_id/:repository/blob/*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:a134c21f-0f5e-ba19-c1c0-0f67be9c3201">
+  <meta name="fetch-nonce" content="v2:a298fe1d-d25d-4b5b-1ba5-c23ed0f9f319">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="CC01:259088:156031D:1BDDCAA:6A5C511F" data-pjax-transient="true"/><meta name="html-safe-nonce" content="cf8748d114e68264bda90353c139fbe771009e820ec8d537ee8e1cf7ead438d2" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQzAxOjI1OTA4ODoxNTYwMzFEOjFCRERDQUE6NkE1QzUxMUYiLCJ2aXNpdG9yX2lkIjoiNzA4MjE2NjQ0NzQxNDk4OTA4NyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="936f3843b66531d270b6cf4055a22840fd4c5b356cc2f56e6e0389d33b234a82" data-pjax-transient="true"/>
+  <meta name="request-id" content="8001:11B080:48DEFA:4B4ACA:6A5DA63F" data-pjax-transient="true"/><meta name="html-safe-nonce" content="5076ae2426304b7a4f5ff3a2879a2b7edc59fe41a4cfb833b553d39c44db22df" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4MDAxOjExQjA4MDo0OERFRkE6NEI0QUNBOjZBNURBNjNGIiwidmlzaXRvcl9pZCI6IjY1NzgxMjAwMDMzNjMzODI4NDciLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="ef9a28ac6bb5d895f77a05532c82eae222211a5f060bcf5925577ae6e9ec2edd" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:669386969" data-turbo-transient>
@@ -199,8 +199,8 @@
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/yonggekkk/Cloudflare-vless-trojan/blob/main/Vless_workers_pages/nat64%E5%A5%97%E5%A3%B3%E7%89%88%E6%B7%B7%E6%B7%86.js" />
 
-      <meta name="twitter:image" content="https://opengraph.githubassets.com/b58dddbcb7be49889ba74948e737662cc29403324baeb08ffd054cb54be863cf/yonggekkk/Cloudflare-vless-trojan" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="File not found · yonggekkk/Cloudflare-vless-trojan" /><meta name="twitter:description" content="CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - File not found · yonggekkk/Cloudflare-vless-trojan" />
-  <meta property="og:image" content="https://opengraph.githubassets.com/b58dddbcb7be49889ba74948e737662cc29403324baeb08ffd054cb54be863cf/yonggekkk/Cloudflare-vless-trojan" /><meta property="og:image:alt" content="CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - File not found · yonggekkk/Cloudflare-vless-trojan" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="File not found · yonggekkk/Cloudflare-vless-trojan" /><meta property="og:url" content="https://github.com/yonggekkk/Cloudflare-vless-trojan" /><meta property="og:description" content="CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - File not found · yonggekkk/Cloudflare-vless-trojan" />
+      <meta name="twitter:image" content="https://opengraph.githubassets.com/fcc6406e238fd8019a2b21df6e2d703f7044a6b797f901b831a0cb402366458c/yonggekkk/Cloudflare-vless-trojan" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="File not found · yonggekkk/Cloudflare-vless-trojan" /><meta name="twitter:description" content="CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - File not found · yonggekkk/Cloudflare-vless-trojan" />
+  <meta property="og:image" content="https://opengraph.githubassets.com/fcc6406e238fd8019a2b21df6e2d703f7044a6b797f901b831a0cb402366458c/yonggekkk/Cloudflare-vless-trojan" /><meta property="og:image:alt" content="CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - File not found · yonggekkk/Cloudflare-vless-trojan" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="File not found · yonggekkk/Cloudflare-vless-trojan" /><meta property="og:url" content="https://github.com/yonggekkk/Cloudflare-vless-trojan" /><meta property="og:description" content="CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 - File not found · yonggekkk/Cloudflare-vless-trojan" />
   
 
 
@@ -340,10 +340,10 @@
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-77715e56-2fe4-4d1d-b2d5-7642d4460a7a" aria-labelledby="tooltip-3550f352-1329-4f9b-aa12-3e21740be267" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-2bf26d97-0e67-48f8-8012-4314decdcbe5" aria-labelledby="tooltip-5a041471-512f-43aa-9b6e-beb2184f51c2" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-3550f352-1329-4f9b-aa12-3e21740be267" for="icon-button-77715e56-2fe4-4d1d-b2d5-7642d4460a7a" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-5a041471-512f-43aa-9b6e-beb2184f51c2" for="icon-button-2bf26d97-0e67-48f8-8012-4314decdcbe5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.78a8eb50c945f58c.module.css" />
@@ -391,7 +391,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:yonggekkk/Cloudflare-vless-trojan" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="p7AYQZdU4v1c0vv9jcJoyg5B7jd9qOmKRyWUaW2lxRkoCwcfKUDK-2o_-b0myyBgxUFiX9c8ZjVG6WPlaqdbHg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="yonggekkk/Cloudflare-vless-trojan" data-current-org="" data-current-owner="yonggekkk" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:yonggekkk/Cloudflare-vless-trojan" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Z2-3EIIqa5b5OB5wswyhd8rgLr_kEj_OagRA3_BmEubjkonfyKRyeaDwQIo3chxRqnaiw4rrQxdXIOUKTbOz1A" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="yonggekkk/Cloudflare-vless-trojan" data-current-org="" data-current-owner="yonggekkk" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center tmp-mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -455,7 +455,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-c0c1f95c-17b3-4259-bf93-bfbe151ac107" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-9bbcc714-1e84-4c0c-b689-91d4c2493f5f" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -696,7 +696,7 @@
             ></ul>
 
         </div>
-      <div class="FormControl-inlineValidation" id="validation-c0c1f95c-17b3-4259-bf93-bfbe151ac107" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-9bbcc714-1e84-4c0c-b689-91d4c2493f5f" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" data-component="Octicon" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -737,7 +737,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="+QQRpQ8sLpdymev01/Jdz+8bnGonyXgxVttjPRy8a4Q0yymisCDAcL9Ognfqhx0Te3t2ZyDcwZUCyabT3tNvsg==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="MVOXtPlQc9/7mFF07pdMkHrbtnEsxl9qNcAzqzpwQAPdzds50MfMaJHjpsYhL37cVjbL7k4Wbq7Nk/Yk1L17Wg==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -775,7 +775,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="RzmIPXifnDP9qWbreosNBGIL7r2pGkK4JyU8tuwZHf8t2IA02VVu1SmPYSfxUaeL8Y76LrMJ8t269jkzsqYuMQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="4pWb3qnqr2hrtNBAIkESpJkNyF+WAMZyAU5ybNIWJhugtSQ6kZqlLEQiTCPToz8nox6tAra9run90YwRmuZzvQ==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -793,7 +793,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="h5OKgpFzqOeH4vCJNf+ZX7rFlrkVGHlKgToJ+aG8hlB7Y7LvzdWlAO3TFkyEuUQawfQfAPq1Xf1VF1CR2BXluw==" />
+              <input type="hidden" data-csrf="true" value="9+hVLc01ddRMihgNKFFA3lyGKabhR9wQqKkyAlp1mQQU/GpXSsrR+4SVoaSzdz0kXKwc6zlMbZqklYHp92Q8Uw==" />
             </auto-check>
           </div>
 
@@ -848,7 +848,7 @@
     <h4 data-view-component="true" class="color-fg-default mb-2 tmp-mb-2">                    Sign in to GitHub
 </h4>
                         
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Z/QBdMAm+jsDEW1v2D50nsC15Gboyz9Ofy40+9Lh3H9S36REKCJboTP0mH0lINRyHbKb8L40laiZghqqp5nAPA==" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="5jG3htYwqQ7qDAPyNcu+k6FIkHvcAtpLcz+vxaTroT4n3RUeqP8K/jXGcQtVlP5LJ8kl5rh0TdITEt9EMN6qaw==" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
 
     <label for="login_field">
       Username or email address
@@ -870,9 +870,9 @@
 <input type="hidden" name="allow_signup" id="allow_signup" autocomplete="off" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
 <input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
-<input class="form-control" type="text" name="required_field_b8af" hidden="hidden" />
-<input class="form-control" type="hidden" name="timestamp" value="1784434975384" />
-<input class="form-control" type="hidden" name="timestamp_secret" value="3418ba8ae244a63601eaabfafe53fb5dd6beb6cd00fdcddee561480804aa0550" />
+<input class="form-control" type="text" name="required_field_bdbd" hidden="hidden" />
+<input class="form-control" type="hidden" name="timestamp" value="1784522304138" />
+<input class="form-control" type="hidden" name="timestamp_secret" value="a2258180a4dec64b063030f70f3b47d41d6d904e0e53bf9bc1125821f2bf1f78" />
 
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
@@ -899,10 +899,10 @@
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-0b4887c6-d6f2-4181-9ffc-ce89c94bce2f" aria-labelledby="tooltip-f414cf09-402f-4b6c-a543-67704c3908ca" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-0e91675f-6056-4f28-ba7b-825a09e780bd" aria-labelledby="tooltip-90b25497-c4cc-4a5a-8e69-549e753bc78b" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-f414cf09-402f-4b6c-a543-67704c3908ca" for="icon-button-0b4887c6-d6f2-4181-9ffc-ce89c94bce2f" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-90b25497-c4cc-4a5a-8e69-549e753bc78b" for="icon-button-0e91675f-6056-4f28-ba7b-825a09e780bd" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.78a8eb50c945f58c.module.css" />
@@ -940,10 +940,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-68a27ee6-005e-47d9-940a-c355f76f32b5" aria-labelledby="tooltip-6b474e7f-0755-44fc-b80c-d6b1c7f8e041" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-aa39d6d2-51ab-4e41-8d76-dec8c198c99f" aria-labelledby="tooltip-fd9c1aae-eda4-4198-80b8-e9cb5447244c" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-6b474e7f-0755-44fc-b80c-d6b1c7f8e041" for="icon-button-68a27ee6-005e-47d9-940a-c355f76f32b5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-fd9c1aae-eda4-4198-80b8-e9cb5447244c" for="icon-button-aa39d6d2-51ab-4e41-8d76-dec8c198c99f" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1041,7 +1041,7 @@
             <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
     
         <li>
-          <include-fragment src="/yonggekkk/Cloudflare-vless-trojan/sponsor_button" data-nonce="v2:a134c21f-0f5e-ba19-c1c0-0f67be9c3201" data-view-component="true">
+          <include-fragment src="/yonggekkk/Cloudflare-vless-trojan/sponsor_button" data-nonce="v2:a298fe1d-d25d-4b5b-1ba5-c23ed0f9f319" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1065,7 +1065,7 @@
             <a href="/login?return_to=%2Fyonggekkk%2FCloudflare-vless-trojan" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/yonggekkk/Cloudflare-vless-trojan/blob/main/Vless_workers_pages/nat64%E5%A5%97%E5%A3%B3%E7%89%88%E6%B7%B7%E6%B7%86.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="15ad68489d1a64e110ba81c96e8b36f187d48c338d29701148298324a4a90383" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2 tmp-mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-384f6b0d-1cb5-4482-b7fc-6c607dcf0fe3" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-6858ff4c-2e30-423b-a11f-cb5dfb72c144" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
@@ -1073,7 +1073,7 @@
           <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fyonggekkk%2FCloudflare-vless-trojan" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:669386969,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/yonggekkk/Cloudflare-vless-trojan/blob/main/Vless_workers_pages/nat64%E5%A5%97%E5%A3%B3%E7%89%88%E6%B7%B7%E6%B7%86.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3ebbaa79c94626bd04dd407218648fddb3f0d0afd860cc92f100179cc65a2818" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2 tmp-mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="9,596" data-view-component="true" class="Counter">9.6k</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="9,595" data-view-component="true" class="Counter">9.6k</span>
 </a>
   </li>
 
@@ -1083,7 +1083,7 @@
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="15616 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="15,616" data-view-component="true" class="Counter js-social-count">15.6k</span>
+</span>          <span id="repo-stars-counter-star" aria-label="15618 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="15,618" data-view-component="true" class="Counter js-social-count">15.6k</span>
 </a></div>
   </li>
 
@@ -1186,22 +1186,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 tmp-pr-3 pr-md-4 tmp-pr-md-4 pr-lg-5 tmp-pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-742a0f76-8550-4273-8e42-d6939608472c-button" popovertarget="action-menu-742a0f76-8550-4273-8e42-d6939608472c-overlay" aria-controls="action-menu-742a0f76-8550-4273-8e42-d6939608472c-list" aria-haspopup="true" aria-labelledby="tooltip-f93f9cab-3af3-4d1b-807e-889281a85096" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-button" popovertarget="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-overlay" aria-controls="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-list" aria-haspopup="true" aria-labelledby="tooltip-b20f2c40-e233-4a58-958a-e478ff02dbdb" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-f93f9cab-3af3-4d1b-807e-889281a85096" for="action-menu-742a0f76-8550-4273-8e42-d6939608472c-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-b20f2c40-e233-4a58-958a-e478ff02dbdb" for="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-742a0f76-8550-4273-8e42-d6939608472c-overlay" anchor="action-menu-742a0f76-8550-4273-8e42-d6939608472c-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-overlay" anchor="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-742a0f76-8550-4273-8e42-d6939608472c-button" id="action-menu-742a0f76-8550-4273-8e42-d6939608472c-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-button" id="action-menu-bdf3e33c-59fa-4d37-a9ee-4a36098f485b-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-9edfff6e-51e9-4c0d-9202-6428d4db334e" href="/yonggekkk/Cloudflare-vless-trojan" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-1a387e18-d68c-4bc1-a822-6246014d3151" href="/yonggekkk/Cloudflare-vless-trojan" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1217,7 +1217,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-fdb6521f-2b20-4ba6-8f74-5e7602891424" href="/yonggekkk/Cloudflare-vless-trojan/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-7fee1df3-a86b-4918-a829-9eb7c653afb6" href="/yonggekkk/Cloudflare-vless-trojan/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1233,7 +1233,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-cf07866e-b525-4bcf-a5b8-8a3d50c89ab7" href="/yonggekkk/Cloudflare-vless-trojan/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-418d29ff-e789-429b-b3f4-2b0c604af960" href="/yonggekkk/Cloudflare-vless-trojan/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1249,7 +1249,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-9f9aceb8-6b3c-4501-8be9-eb686ae78de9" href="/yonggekkk/Cloudflare-vless-trojan/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-7a2fa49c-b61e-460c-a4dd-a670c66da429" href="/yonggekkk/Cloudflare-vless-trojan/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1265,7 +1265,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-a08dc321-ba75-4df6-9871-8093f83bfaee" href="/yonggekkk/Cloudflare-vless-trojan/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-0c4502cb-d2e5-4377-b7ad-e51fab3cdffe" href="/yonggekkk/Cloudflare-vless-trojan/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1281,7 +1281,7 @@
         <li hidden="hidden" data-menu-item="i5security-and-quality-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-e459680f-a2bb-4a01-bc3a-a12177c50b44" href="/yonggekkk/Cloudflare-vless-trojan/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e7dd8b43-142e-4025-8cf7-9b26a564c847" href="/yonggekkk/Cloudflare-vless-trojan/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1297,7 +1297,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-6d43cd5e-b0f6-4de5-9aca-fe61e2ebc489" href="/yonggekkk/Cloudflare-vless-trojan/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-07b9f921-79f1-4145-b294-65a7fbafa8eb" href="/yonggekkk/Cloudflare-vless-trojan/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1354,7 +1354,7 @@
   data-react-profiling="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"codeViewBlobRoute":{"path":"Vless_workers_pages/nat64套壳版混淆.js","repo":{"id":669386969,"defaultBranch":"main","name":"Cloudflare-vless-trojan","ownerLogin":"yonggekkk","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-07-22T05:43:42.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/121604513?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1766736511.0","canEdit":false,"refType":"branch","currentOid":"25a9017f99a71200843243b8d4e67b2eab1de340"},"currentUser":null,"fileTree":{"":{"items":[{"name":"ISH_1.2.2","path":"ISH_1.2.2","contentType":"directory"},{"name":"Trojan_workers_pages","path":"Trojan_workers_pages","contentType":"directory"},{"name":"Vless_workers_pages","path":"Vless_workers_pages","contentType":"directory"},{"name":"cf","path":"cf","contentType":"directory"},{"name":"s5http_wkpgs","path":"s5http_wkpgs","contentType":"directory"},{"name":"优选工具","path":"优选工具","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"locations.json","path":"locations.json","contentType":"file"}],"totalCount":8}},"fileTreeProcessingTime":17.009256999999998,"foldersToFetch":[],"allShortcutsEnabled":false,"tree":{"items":[],"totalCount":0,"templateDirectorySuggestionUrl":null,"readme":null,"showBranchInfobar":false},"error":{"httpStatus":404,"type":"httpError"}},"codeViewLayoutRoute":{"repo":{"id":669386969,"defaultBranch":"main","name":"Cloudflare-vless-trojan","ownerLogin":"yonggekkk","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-07-22T05:43:42.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/121604513?v=4","public":true,"private":false,"isOrgOwned":false},"currentUser":null,"uploadToken":"rp0xl8Cwmgxv8KXvmC7WbPD7gwxCeM-qYZQDynsbqRnOPk_7FEvFo80ybn9EOyn6DMPwxuezoH9f7xkVgQcEkA","allShortcutsEnabled":false,"treeExpanded":true,"path":"Vless_workers_pages/nat64套壳版混淆.js","symbolsExpanded":false,"refInfo":{"name":"main","listCacheKey":"v0:1766736511.0","canEdit":false,"currentOid":"25a9017f99a71200843243b8d4e67b2eab1de340"},"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-e47c88e0e1d9a6e9.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-46708daff7a1f480.js","githubDevUrl":null},"codeViewFileTreeLayoutRoute":{"fileTree":{"":{"items":[{"name":"ISH_1.2.2","path":"ISH_1.2.2","contentType":"directory"},{"name":"Trojan_workers_pages","path":"Trojan_workers_pages","contentType":"directory"},{"name":"Vless_workers_pages","path":"Vless_workers_pages","contentType":"directory"},{"name":"cf","path":"cf","contentType":"directory"},{"name":"s5http_wkpgs","path":"s5http_wkpgs","contentType":"directory"},{"name":"优选工具","path":"优选工具","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"locations.json","path":"locations.json","contentType":"file"}],"totalCount":8}},"fileTreeProcessingTime":1.984141,"foldersToFetch":[]},"codeViewBlobLayoutRoute.StyledBlob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null},"codeViewBlobLayoutRoute":{"path":"Vless_workers_pages/nat64套壳版混淆.js","repo":{"id":669386969,"defaultBranch":"main","name":"Cloudflare-vless-trojan","ownerLogin":"yonggekkk","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-07-22T05:43:42.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/121604513?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1766736511.0","canEdit":false,"refType":"branch","currentOid":"25a9017f99a71200843243b8d4e67b2eab1de340"},"currentUser":null,"fileTree":{"":{"items":[{"name":"ISH_1.2.2","path":"ISH_1.2.2","contentType":"directory"},{"name":"Trojan_workers_pages","path":"Trojan_workers_pages","contentType":"directory"},{"name":"Vless_workers_pages","path":"Vless_workers_pages","contentType":"directory"},{"name":"cf","path":"cf","contentType":"directory"},{"name":"s5http_wkpgs","path":"s5http_wkpgs","contentType":"directory"},{"name":"优选工具","path":"优选工具","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"locations.json","path":"locations.json","contentType":"file"}],"totalCount":8}},"fileTreeProcessingTime":17.009256999999998,"foldersToFetch":[],"allShortcutsEnabled":false,"tree":{"items":[],"totalCount":0,"templateDirectorySuggestionUrl":null,"readme":null,"showBranchInfobar":false},"error":{"httpStatus":404,"type":"httpError"}}},"title":"File not found","appPayload":{},"meta":{"title":"File not found"}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"codeViewBlobRoute":{"path":"Vless_workers_pages/nat64套壳版混淆.js","repo":{"id":669386969,"defaultBranch":"main","name":"Cloudflare-vless-trojan","ownerLogin":"yonggekkk","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-07-22T05:43:42.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/121604513?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1766736511.0","canEdit":false,"refType":"branch","currentOid":"25a9017f99a71200843243b8d4e67b2eab1de340"},"currentUser":null,"fileTree":{"":{"items":[{"name":"ISH_1.2.2","path":"ISH_1.2.2","contentType":"directory"},{"name":"Trojan_workers_pages","path":"Trojan_workers_pages","contentType":"directory"},{"name":"Vless_workers_pages","path":"Vless_workers_pages","contentType":"directory"},{"name":"cf","path":"cf","contentType":"directory"},{"name":"s5http_wkpgs","path":"s5http_wkpgs","contentType":"directory"},{"name":"优选工具","path":"优选工具","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"locations.json","path":"locations.json","contentType":"file"}],"totalCount":8}},"fileTreeProcessingTime":5.153424,"foldersToFetch":[],"allShortcutsEnabled":false,"tree":{"items":[],"totalCount":0,"templateDirectorySuggestionUrl":null,"readme":null,"showBranchInfobar":false},"error":{"httpStatus":404,"type":"httpError"}},"codeViewLayoutRoute":{"repo":{"id":669386969,"defaultBranch":"main","name":"Cloudflare-vless-trojan","ownerLogin":"yonggekkk","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-07-22T05:43:42.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/121604513?v=4","public":true,"private":false,"isOrgOwned":false},"currentUser":null,"uploadToken":"RTWP6kCHVNu8FQtI9HGsrHDX7R7zktQe-Y0PqJCAI8RiP5yrSaNoaZ9JgS0aphJ2ld0tay-DSzKJmuLRtK7a9A","allShortcutsEnabled":false,"treeExpanded":true,"path":"Vless_workers_pages/nat64套壳版混淆.js","symbolsExpanded":false,"refInfo":{"name":"main","listCacheKey":"v0:1766736511.0","canEdit":false,"currentOid":"25a9017f99a71200843243b8d4e67b2eab1de340"},"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-e47c88e0e1d9a6e9.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-46708daff7a1f480.js","githubDevUrl":null},"codeViewFileTreeLayoutRoute":{"fileTree":{"":{"items":[{"name":"ISH_1.2.2","path":"ISH_1.2.2","contentType":"directory"},{"name":"Trojan_workers_pages","path":"Trojan_workers_pages","contentType":"directory"},{"name":"Vless_workers_pages","path":"Vless_workers_pages","contentType":"directory"},{"name":"cf","path":"cf","contentType":"directory"},{"name":"s5http_wkpgs","path":"s5http_wkpgs","contentType":"directory"},{"name":"优选工具","path":"优选工具","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"locations.json","path":"locations.json","contentType":"file"}],"totalCount":8}},"fileTreeProcessingTime":1.434831,"foldersToFetch":[]},"codeViewBlobLayoutRoute.StyledBlob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null},"codeViewBlobLayoutRoute":{"path":"Vless_workers_pages/nat64套壳版混淆.js","repo":{"id":669386969,"defaultBranch":"main","name":"Cloudflare-vless-trojan","ownerLogin":"yonggekkk","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-07-22T05:43:42.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/121604513?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1766736511.0","canEdit":false,"refType":"branch","currentOid":"25a9017f99a71200843243b8d4e67b2eab1de340"},"currentUser":null,"fileTree":{"":{"items":[{"name":"ISH_1.2.2","path":"ISH_1.2.2","contentType":"directory"},{"name":"Trojan_workers_pages","path":"Trojan_workers_pages","contentType":"directory"},{"name":"Vless_workers_pages","path":"Vless_workers_pages","contentType":"directory"},{"name":"cf","path":"cf","contentType":"directory"},{"name":"s5http_wkpgs","path":"s5http_wkpgs","contentType":"directory"},{"name":"优选工具","path":"优选工具","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"locations.json","path":"locations.json","contentType":"file"}],"totalCount":8}},"fileTreeProcessingTime":5.153424,"foldersToFetch":[],"allShortcutsEnabled":false,"tree":{"items":[],"totalCount":0,"templateDirectorySuggestionUrl":null,"readme":null,"showBranchInfobar":false},"error":{"httpStatus":404,"type":"httpError"}}},"title":"File not found","appPayload":{},"meta":{"title":"File not found"}}</script>
   <div data-target="react-app.reactRoot"><meta name="github-code-view-meta-stats" id="github-code-view-meta-stats" data-hydrostats="publish"/> <!-- --> <a hidden="" id="code-view-repo-link" href="/yonggekkk/Cloudflare-vless-trojan" data-discover="true"></a> <div class="d-none"></div><div><div style="--spacing:var(--spacing-none)" class="prc-PageLayout-PageLayoutRoot--KH-d" data-component="SplitPageLayout" data-has-sidebar="true"><div class="prc-PageLayout-SidebarWrapper-kLG4B CopilotSidePanelSidebar-module__SidePanel__L3O0C CopilotSidePanelSidebar-module__HiddenSidePanel__TBRGn" style="--spacing-column:var(--spacing-none)" data-is-hidden="false" data-position="end" data-sticky="true" data-responsive-variant="fullscreen"><div class="prc-PageLayout-VerticalDivider-9QRmK prc-PageLayout-SidebarVerticalDivider-0Rl0V" data-component="PageLayout.VerticalDivider" data-variant="line" data-position="end" style="--spacing:var(--spacing-none)"><div class="prc-PageLayout-DraggableHandle-9s6B4" data-component="PageLayout.DragHandle" role="slider" aria-label="Draggable pane splitter" aria-valuemin="450" aria-valuemax="768" aria-valuenow="544" aria-valuetext="Pane width 544 pixels" tabindex="0"></div></div><div class="prc-PageLayout-Sidebar-iciWg" data-component="SplitPageLayout.Sidebar" data-resizable="true" style="--spacing:var(--spacing-normal);--pane-min-width:450px;--pane-max-width:768px;--pane-width-custom:544px;--pane-width-size:var(--pane-width-custom);--pane-width:544px"><div class="height-full"><div id="copilot-side-panel-content" class="height-full"></div></div></div></div><div class="prc-PageLayout-PageLayoutWrapper-2BhU2" data-width="full"><div class="prc-PageLayout-PageLayoutContent-BneH9"><div class="CodeViewFileTreeLayout-module__sidebar__n_Aau" tabindex="0"><div class="prc-PageLayout-PaneWrapper-pHPop ReposFileTreePane-module__Pane__rBZpI ReposFileTreePane-module__HideTree__AYZnm ReposFileTreePane-module__HidePane__VHAVt" style="--offset-header:0px;--spacing-row:var(--spacing-none);--spacing-column:var(--spacing-none)" data-is-hidden="false" data-position="start" data-sticky="true"><div class="prc-PageLayout-HorizontalDivider-JLVqp prc-PageLayout-PaneHorizontalDivider-9tbnE" data-component="PageLayout.HorizontalDivider" data-variant-regular="none" data-variant-narrow="none" data-position="start" style="--spacing-divider:var(--spacing-none);--spacing:var(--spacing-none)"></div><div class="prc-PageLayout-Pane-AyzHK" data-component="SplitPageLayout.Pane" data-resizable="true" style="--spacing:var(--spacing-none);--pane-min-width:256px;--pane-max-width:calc(100vw - var(--pane-max-width-diff));--pane-width-size:var(--pane-width-large);--pane-width:320px"></div><div class="prc-PageLayout-VerticalDivider-9QRmK prc-PageLayout-PaneVerticalDivider-le57g" data-component="PageLayout.VerticalDivider" data-variant-narrow="none" data-variant-regular="line" data-variant-wide="line" data-position="start" style="--spacing:var(--spacing-none)"><div class="prc-PageLayout-DraggableHandle-9s6B4" data-component="PageLayout.DragHandle" role="slider" aria-label="Draggable pane splitter" aria-valuemin="256" aria-valuemax="600" aria-valuenow="320" aria-valuetext="Pane width 320 pixels" tabindex="0"></div></div></div></div><div data-component="SplitPageLayout.Content" class="prc-PageLayout-ContentWrapper-gR9eG"><div class="prc-PageLayout-Content-xWL-A" data-width="full" style="--spacing:var(--spacing-none)"><div class="SharedPageLayout-module__content__IwGAp" data-selector="repos-split-pane-content" tabindex="0"><div class="CodeViewError-module__Box__RpqYX"><div class="d-flex flex-column flex-justify-center flex-items-center border rounded-2 tmp-px-6 tmp-py-7"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-alert fgColor-muted mb-2" viewBox="0 0 16 16" width="20" height="20" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><div class="d-flex flex-column flex-items-center gap-1 text-center"><div class="f2 fgColor-default text-bold">404 - page not found</div><div class="d-flex flex-wrap flex-justify-center fgColor-muted" data-testid="eror-404-description">The <span class="prc-BranchName-BranchName-CMTaU" data-component="BranchName">main</span> branch of <p class="text-bold mb-0">Cloudflare-vless-trojan</p> does not contain the path <p class="text-bold mb-0">Vless_workers_pages/nat64套壳版混淆.js<!-- -->.</p></div></div><a data-component="LinkButton" type="button" aria-label="go to Overview" href="/yonggekkk/Cloudflare-vless-trojan" class="prc-Button-ButtonBase-9n-Xk tmp-mt-4 LinkButton-module__linkButton__nFnov" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="primary"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">Return to the repository overview</span></span></a></div></div></div></div></div></div></div></div><div class="ScrollMarksContainer-module__scrollMarksContainer__Eu7uU" id="find-result-marks-container"></div><div class="d-none"></div><div class="d-none"></div></div> <!-- --> <!-- --> </div>
 </react-app>
 
